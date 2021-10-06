@@ -2,7 +2,7 @@
 #include<conio.h>
 int main()
 {
-    int a[20],i,x,n,flag=0;
+    int a[99999],i,x,n,flag=0;
     //Getting Array Size (n)
     printf("\nHow Many Elements? ");
     scanf("%d",&n);
